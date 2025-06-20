@@ -1,4 +1,4 @@
-# 📚 Workshop Spring Boot JPA
+# 📚 Loja Springboot JPA
 
 Este projeto é uma API REST desenvolvida com **Spring Boot**, utilizando **Spring Data JPA** para persistência de dados em banco relacional. Foi criado como parte de um workshop com o objetivo de aprender os fundamentos do JPA, relacionamentos entre entidades, e construção de uma estrutura de backend simples para gerenciamento de pedidos de usuários.
 
